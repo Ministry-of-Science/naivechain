@@ -1,0 +1,21 @@
+{
+  "name": "naivechain",
+  "version": "1.0.0",
+  "description": "Blockchain implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.inc.sh:44/SciLab/naivechain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "ws": "^6.1.2"
+  }
+}
