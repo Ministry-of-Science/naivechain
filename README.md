@@ -21,8 +21,9 @@ Check also [this blog post](https://medium.com/@lhartikk/a-blockchain-in-200-lin
 * Data is not persisted in nodes
 * No proof-of-work or proof-of-stake: a block can be added to the blockchain without competition
 
-![alt tag](https://raw.githubusercontent.com/lhartikk/naivechain/master/naivechain_blockchain.png)
-![alt tag](https://raw.githubusercontent.com/lhartikk/naivechain/master/naivechain_components.png)
+![alt tag](naivechain_blockchain.png)
+
+![alt tag](naivechain_components.png)
 
 ### Naivecoin
 For a more extensive tutorial about blockchains, you can check the project [Naivecoin](https://lhartikk.github.io). It is based on Naivechain and implements for instance Proof-of-work, transactions and wallets.
